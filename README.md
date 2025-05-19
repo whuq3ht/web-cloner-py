@@ -36,13 +36,13 @@ python web-cloner.py
 ```
 
 ## Çıktı Yapısı
-site-backup/
+```site-backup/
 ├── index.html
 ├── assets/
 │   ├── style.css
 │   └── script.js
 ├── images/
-│   └── logo.png
+│   └── logo.png```
 
 
 ## ⚠️ Uyarılar
