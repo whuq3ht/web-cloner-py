@@ -42,8 +42,8 @@ python web-cloner.py
 │   ├── style.css
 │   └── script.js
 ├── images/
-│   └── logo.png```
-
+│   └── logo.png
+```
 
 ## ⚠️ Uyarılar
 │ Bu araç sadece halka açık web siteler için kullanılmalıdır.
