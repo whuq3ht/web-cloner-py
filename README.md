@@ -45,6 +45,10 @@ python web-cloner.py
 │   └── logo.png
 ```
 
+## Kullanmadan Önce!
+
+pip install requirements.txt
+
 ## ⚠️ Uyarılar
 │ Bu araç sadece halka açık web siteler için kullanılmalıdır.
 
