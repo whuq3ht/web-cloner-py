@@ -47,7 +47,7 @@ python web-cloner.py
 
 ## Kullanmadan Önce!
 
-pip install requirements.txt
+pip install -r requirements.txt
 
 ## ⚠️ Uyarılar
 │ Bu araç sadece halka açık web siteler için kullanılmalıdır.
